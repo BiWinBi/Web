@@ -2,7 +2,7 @@
 
 You can visit the BWB on [Wix](https://a3a6a99.wixsite.com/bismuthshed/bwb) to know more about Bismuth Win Bi (BWB) now.
 
-Whenever you want discuss about BWB, join our [Official Telegram Group](https://t.me/BWBtothemoon)
+Whenever you want discuss about BWB, join our [Official Telegram Group](https://t.me/BWBtothemoon) !
 
 ![BWB logo](https://user-images.githubusercontent.com/93846559/140635738-8e770cd2-bb66-49e4-81e4-3082bde0358b.jpg)
 
