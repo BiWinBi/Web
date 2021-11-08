@@ -5,9 +5,13 @@ You can visit the BWB on [Wix](https://a3a6a99.wixsite.com/bismuthshed/bwb) to k
 You can also take a look at our [collection](https://a3a6a99.wixsite.com/bismuthshed/collection) of bismuth crystals.
 
 Whenever you want to attend the **airdropping(11/6~11/23)** or discuss about BWB, join our [Official Telegram Group](https://t.me/BWBtothemoon) !
-
-![BWB logo](https://user-images.githubusercontent.com/93846559/140635738-8e770cd2-bb66-49e4-81e4-3082bde0358b.jpg)
-
+<br>
+<br>
+<br>
+![BWB logo](https://user-images.githubusercontent.com/93846559/140682603-8e08cd37-d0e1-4eee-a24a-5435daaefa84.png)
+<br>
+<br>
+<br>
 ### Tokenomics 代幣經濟
 
 Basic Info about BWB 鉍勝幣基本資訊
@@ -85,11 +89,12 @@ BEP20
 💚Telefram Group link:
 
 [BWB Official Group](https://t.me/BWBtothemoon)
-
-
-
-
-###(Under Construction)
+<br> 
+<br> 
+<br> 
+<br> 
+<br>
+### (Under Construction)
 ```markdown
 # Header 1(under construction)
 ## Header 2(under construction)
