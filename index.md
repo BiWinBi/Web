@@ -70,19 +70,21 @@ Total supply: 21 million
 
 [Wix](https://a3a6a99.wixsite.com/bismuthshed/bwb)
 
+
 🧬智能合約地址：
 🧬Contract Address:
 
 SEP20
-https://www.smartscan.cash/address/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881
+[SmartScan](https://www.smartscan.cash/address/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881)
 
 BEP20
-https://bscscan.com/token/0x2e1da8eb00cd1ff9b201f51e3705d87e06313881
+[BscScan](https://bscscan.com/token/0x2e1da8eb00cd1ff9b201f51e3705d87e06313881)
+
 
 💚電報群組連結：
 💚Telefram Group link:
 
-https://t.me/BWBtothemoon
+[BWB Official Group](https://t.me/BWBtothemoon)
 
 ```markdown
 # Header 1(under construction)
