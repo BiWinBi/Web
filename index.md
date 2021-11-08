@@ -17,7 +17,7 @@ Basic Info about BWB 鉍勝幣基本資訊
 ♻️交易網址：
 
 【SmartBCH】
-**AIRDROPPING FOR FREE(11/6~11/23)**
+**[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)**
 (Schedule :11/24 on mistswap)
 
 【BSC】
@@ -40,8 +40,9 @@ Basic Info about BWB 鉍勝幣基本資訊
 Total supply: 21 million
 總供應：兩千一百萬顆
 
-**🎊AIRDROPPING FOR FREE(11/6~11/23)
+**🎊[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)
 10000 tokens for each account
+
 🎊免費空投中(11/6~11/23)，每個帳號一萬顆**
 
 【BSC】
