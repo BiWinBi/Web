@@ -4,7 +4,7 @@ You can visit the BWB on [Wix](https://a3a6a99.wixsite.com/bismuthshed/bwb) to k
 
 You can also take a look at our [collection](https://a3a6a99.wixsite.com/bismuthshed/collection) of bismuth crystals.
 
-Whenever you want discuss about BWB, join our [Official Telegram Group](https://t.me/BWBtothemoon) !
+Whenever you want to attend the **airdropping(11/6~11/23)** or discuss about BWB, join our [Official Telegram Group](https://t.me/BWBtothemoon) !
 
 ![BWB logo](https://user-images.githubusercontent.com/93846559/140635738-8e770cd2-bb66-49e4-81e4-3082bde0358b.jpg)
 
@@ -86,6 +86,10 @@ BEP20
 
 [BWB Official Group](https://t.me/BWBtothemoon)
 
+
+
+
+###(Under Construction)
 ```markdown
 # Header 1(under construction)
 ## Header 2(under construction)
