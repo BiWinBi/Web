@@ -41,9 +41,10 @@ Total supply: 21 million
 總供應：兩千一百萬顆
 
 **🎊[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)
-10000 tokens for each account
+10000 tokens for each account**
 
-🎊免費空投中(11/6~11/23)，每個帳號一萬顆**
+**🎊免費空投中(11/6~11/23)，每個帳號一萬顆**
+
 
 【BSC】
 【幣安智能鏈】
