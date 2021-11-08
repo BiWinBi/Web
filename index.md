@@ -24,7 +24,7 @@ Basic Info about BWB 鉍勝幣基本資訊
 【SmartBCH】
 **[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)**
 <br>
-(Schedule :11/24 on mistswap)
+(Schedule :11/24 on Mistswap)
 
 【BSC】
 [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0x2e1da8eb00cd1ff9b201f51e3705d87e06313881)
@@ -106,21 +106,17 @@ BEP20
 <br>
 ### (Under Construction)
 ```markdown
-# Header 1(under construction)
-## Header 2(under construction)
-### Header 3(under construction)
+# H1(under construction)
+## H2(under construction)
+### H3(under construction)
 
-- Bulleted(under construction)
-- List(under construction)
-
-1. Numbered(under construction)
-2. List(under construction)
+- B(under construction)
+- L(under construction)
 
 **Bold** and _Italic_ and `Code` text(under construction)
 
 [Link](url) and ![Image](src)(under construction)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact(Under Construction)
