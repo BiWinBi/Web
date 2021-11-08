@@ -12,11 +12,12 @@ Whenever you want to participate in the **[airdropping](https://noise.cash/post/
 <br>
 <br>
 <br>
-### Tokenomics 代幣經濟
+### About BWB 有關鉍勝幣
 
 Basic Info about BWB 鉍勝幣基本資訊
-
-
+<br>
+<br>
+<br>
 ♻️Trade here:
 ♻️交易網址：
 
@@ -119,6 +120,6 @@ BEP20
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact(under construction)
+### Support or Contact(Under Construction)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
