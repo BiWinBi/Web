@@ -116,11 +116,11 @@ BEP20
 **Bold** and _Italic_ and `Code` text(under construction)
 
 [Link](url) and ![Image](src)(under construction)
-
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
 ### Support or Contact(Under Construction)
+
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
 Check out our [documentation](https://docs.github.com/categories/github-pages-basics/).
 
