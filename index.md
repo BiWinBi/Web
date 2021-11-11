@@ -24,7 +24,7 @@ Basic Info about BWB 鉍勝幣基本資訊
 【SmartBCH】
 **[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)**
 <br>
-(Schedule :11/24 on Mistswap)
+(Schedule :11/24 on Mistswap, the BCH-BWB MLP will also be burnt)
 
 【BSC】
 [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0x2e1da8eb00cd1ff9b201f51e3705d87e06313881)
