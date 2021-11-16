@@ -13,7 +13,7 @@ Whenever you want to participate in the **[airdropping](https://noise.cash/post/
 <br>
 The **BWB logo** comes from the **Bismuth Shed trademark**.<br>
 It represents the grid-shaped structure of **Bismuth Crystal**.<br>
-Rotate it -45 degree, and it becomes our **BWB logo**.
+Rotate it -45 degrees, and it becomes our **BWB logo**.
 <br>
 <br>
 <br>
