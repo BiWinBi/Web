@@ -9,6 +9,11 @@ Whenever you want to participate in the **[airdropping](https://noise.cash/post/
 <br>
 <br>
 ![BWB logo](https://user-images.githubusercontent.com/93846559/140682603-8e08cd37-d0e1-4eee-a24a-5435daaefa84.png)
+![Bismuth Shed](https://user-images.githubusercontent.com/93846559/141882042-8335e00a-6903-409c-bfe2-db41f9eded5d.jpg)
+<br>
+The **BWB logo** comes from the **Bismuth Shed trademark**.<br>
+It represents the grid-shaped structure of **Bismuth Crystal**.<br>
+Rotate it -45 degree, and it becomes our **BWB logo**.
 <br>
 <br>
 <br>
