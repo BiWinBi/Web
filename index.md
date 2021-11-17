@@ -12,7 +12,7 @@ Whenever you want to participate in the **[airdropping](https://noise.cash/post/
 ![Bismuth Shed](https://user-images.githubusercontent.com/93846559/141882042-8335e00a-6903-409c-bfe2-db41f9eded5d.jpg)
 <br>
 The **BWB logo** comes from the **Bismuth Shed trademark**.<br>
-It represents the grid-shaped structure of **Bismuth Crystal**.<br>
+It represents the grid-shaped structure of **Bismuth Crystals**.<br>
 Rotate it -45 degrees, and it becomes our **BWB logo**.
 <br>
 <br>
@@ -27,10 +27,13 @@ Basic Info about BWB 鉍勝幣基本資訊
 ♻️交易網址：
 
 【SmartBCH】
+**[Mistswap](https://app.mistswap.fi/swap?inputCurrency=0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881&outputCurrency=)**
+<br>
+(Schedule :First 11/16 on Mistswap, the liquidity adding little by little, the BCH-BWB MLP will also be burnt)
+<br>
 **[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)**
 <br>
-(Schedule :11/24 on Mistswap, the BCH-BWB MLP will also be burnt)
-
+<br>
 【BSC】
 [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0x2e1da8eb00cd1ff9b201f51e3705d87e06313881)
 <br>
@@ -111,22 +114,9 @@ BEP20
 <br>
 ### (Under Construction)
 ```markdown
-# H1(under construction)
-## H2(under construction)
-### H3(under construction)
-
-- B(under construction)
-- L(under construction)
 
 **Bold** and _Italic_ and `Code` text(under construction)
 
 [Link](url) and ![Image](src)(under construction)
 ```
 
-### Support or Contact(Under Construction)
-
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
-Check out our [documentation](https://docs.github.com/categories/github-pages-basics/).
-
-[Contact support](https://support.github.com/contact) and we’ll help you sort it out.
