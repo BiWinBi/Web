@@ -112,11 +112,8 @@ BEP20
 <br>
 <br>
 <br>
-### (Under Construction)
+### (Quick memo)
 ```markdown
-
-**Bold** and _Italic_ and `Code` text(under construction)
-
-[Link](url) and ![Image](src)(under construction)
+**Bold** and _Italic_ and `Code` text
 ```
 
