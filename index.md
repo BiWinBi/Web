@@ -40,13 +40,16 @@ Schedule :<br>
 <br>
 <br>
 【BSC】
+<br>
 [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0x2e1da8eb00cd1ff9b201f51e3705d87e06313881)
 <br>
 <br>
 <br>
 💹Price Chart:
 💹走勢圖：
-
+【SmartBCH】
+**[Mistswap](https://analytics.mistswap.fi/pairs/0x692326e3796fb86b293e3c86a7f6d81529e78aa4)**
+<br>
 【BSC】
 [BogCharts](https://charts.bogged.finance/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881)
 <br>
@@ -61,10 +64,17 @@ Schedule :<br>
 Total supply: 21 million
 總供應：兩千一百萬顆
 
+✴️45% Liquidity✴️45% 流動性
+
+✴️51% Airdropping（Over）✴️51% 空投獎勵（已結束）
+
+✴️4% Team Fund✴️4% 團隊資金
+
+✴️Extremely Low Cap: approx. $500 now✴️超低市值：約500鎂
+
 **🎊[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23) OVER NOW, 
 10000 tokens for each account<br>
-Please buy from Mistswap or Tangoswap<br>
-**
+Please buy from Mistswap or Tangoswap<br>**
 
 **🎊免費空投已結束(11/6~11/23)，每個帳號一萬顆**
 <br>
