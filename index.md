@@ -46,11 +46,11 @@ Schedule :<br>
 <br>
 <br>
 💹Price Chart:
-💹走勢圖：
-【SmartBCH】
+💹走勢圖：<br>
+【SmartBCH】<br>
 **[Mistswap](https://analytics.mistswap.fi/pairs/0x692326e3796fb86b293e3c86a7f6d81529e78aa4)**
 <br>
-【BSC】
+【BSC】<br>
 [BogCharts](https://charts.bogged.finance/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881)
 <br>
 <br>
