@@ -34,7 +34,8 @@ Basic Info about BWB 鉍勝幣基本資訊
 <br>
 Schedule :<br>
 11/16 on Mistswap, the BCH-BWB MLP will also be burnt<br>
-11/24 on Tangoswap
+11/24 on Tangoswap<br>
+11/27 on 1BCH.com
 <br>
 **[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)**
 <br>
@@ -70,7 +71,7 @@ Total supply: 21 million
 
 ✴️4% Team Fund✴️4% 團隊資金
 
-✴️Extremely Low Cap: approx. $500 now✴️超低市值：約500鎂
+✴️Low Cap: approx. $800 now✴️低市值：現在約800鎂
 
 **🎊[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23) OVER NOW, 
 10000 tokens for each account<br>
@@ -94,7 +95,7 @@ Total supply: 21 million
 
 ✴️No tax✴️無交易稅
 
-✴️Extremely Low Cap: approx. $500 now✴️超低市值：約500鎂
+✴️Extremely Low Cap: approx. $500 now✴️超低市值：現在約500鎂
 <br>
 <br>
 <br>
