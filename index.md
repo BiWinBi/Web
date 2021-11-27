@@ -35,7 +35,7 @@ Basic Info about BWB 鉍勝幣基本資訊
 Schedule :<br>
 11/16 on Mistswap, the BCH-BWB MLP will also be burnt<br>
 11/24 on Tangoswap<br>
-11/27 on 1BCH.com
+11/29 on 1BCH.com
 <br>
 **[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)**
 <br>
