@@ -71,7 +71,7 @@ Total supply: 21 million
 
 ✴️4% Team Fund✴️4% 團隊資金
 
-✴️Low Cap: approx. $800 now✴️低市值：現在約800鎂
+✴️Low Cap: approx. $1000 now✴️低市值：現在約1000鎂
 
 **🎊[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23) OVER NOW, 
 10000 tokens for each account<br>
