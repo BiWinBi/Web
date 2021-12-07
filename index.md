@@ -19,7 +19,8 @@ Rotate it -45 degrees, and it becomes our **BWB logo**.
 <br>
 ### About BWB 有關鉍勝幣
 
-Basic Info about BWB 鉍勝幣基本資訊
+Basic Info about BWB 鉍勝幣基本資訊<br>
+**[Marketcap.cash](https://www.marketcap.cash/token/BWB)**
 <br>
 <br>
 <br>
