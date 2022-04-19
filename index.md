@@ -17,6 +17,13 @@ Rotate it -45 degrees, and it becomes our **BWB logo**.
 <br>
 <br>
 <br>
+### About BWBNFT 有關BWBNFT
+**[BWB Series NFT](https://oasis.cash/collection/0xdccB0e678bEA8FE3d97921CbFF85Be757a223312)**
+**[BWBxZaki Series NFT](https://oasis.cash/collection/0xA213a2140db2570319062e663B8436432F8072DA)**
+<br>
+<br>
+<br>
+<br>
 ### About BWB 有關鉍勝幣
 
 Basic Info about BWB 鉍勝幣基本資訊<br>
