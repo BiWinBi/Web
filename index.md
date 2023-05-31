@@ -1,5 +1,9 @@
 ## Bismuth Win Bi Official Site 鉍勝幣官方網站
 
+We have issued Bismuth Win Bi (BWB) on #Cashtokens.
+
+All new information now intergrated into our [official site](https://bismuthshed.com)
+
 You can visit the BWB on [Wix](https://a3a6a99.wixsite.com/bismuthshed/bwb) to know more about Bismuth Win Bi (BWB) now.
 
 You can also take a look at our [collection](https://a3a6a99.wixsite.com/bismuthshed/collection) of bismuth crystals.
