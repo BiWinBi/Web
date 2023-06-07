@@ -47,7 +47,7 @@ Schedule :<br>
 2021/11/24 on Tangoswap<br>
 2021/11/29 on 1BCH.com<br>
 
-**[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)**
+**[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(2021,11/6~11/23)**
 <br>
 <br>
 【BSC】
