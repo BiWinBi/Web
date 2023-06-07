@@ -41,6 +41,9 @@ Basic Info about BWB 鉍勝幣基本資訊<br>
 【Cashrtokens】
 <br>
 [Tapswap](https://tapswap.cash/trade/36546e4062a1cfd070a4a8d8ff9db18aae4ddf8d9ac9a4fa789314d108b49797)
+<br>
+Schedule :<br>
+2023/5/27 on [Tapswap](https://tapswap.cash/)
 
 
 【SmartBCH】
