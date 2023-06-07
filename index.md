@@ -42,15 +42,11 @@ Basic Info about BWB 鉍勝幣基本資訊<br>
 <br>
 **[Mistswap](https://app.mistswap.fi/swap?inputCurrency=0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881&outputCurrency=)
 <br>
-[Tangoswap](https://tangoswap.cash/swap?inputCurrency=&outputCurrency=0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881)
-<br>
-[1BCH](https://1bch.com/swap?inputCurrency=&outputCurrency=0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881)**
-<br>
 Schedule :<br>
-11/16 on Mistswap, the BCH-BWB MLP will also be burnt<br>
-11/24 on Tangoswap<br>
-11/29 on 1BCH.com
-<br>
+2021/11/16 on Mistswap, the BCH-BWB MLP will also be burnt<br>
+2021/11/24 on Tangoswap<br>
+2021/11/29 on 1BCH.com<br>
+
 **[AIRDROPPING](https://noise.cash/post/1ppnr09x) FOR FREE(11/6~11/23)**
 <br>
 <br>
