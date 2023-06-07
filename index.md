@@ -38,9 +38,14 @@ Basic Info about BWB 鉍勝幣基本資訊<br>
 ♻️Trade here:
 ♻️交易網址：
 
+【Cashrtokens】
+<br>
+[Tapswap](https://tapswap.cash/trade/36546e4062a1cfd070a4a8d8ff9db18aae4ddf8d9ac9a4fa789314d108b49797)
+
+
 【SmartBCH】
 <br>
-**[Mistswap](https://app.mistswap.fi/swap?inputCurrency=0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881&outputCurrency=)
+[Mistswap](https://app.mistswap.fi/swap?inputCurrency=0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881&outputCurrency=)
 <br>
 Schedule :<br>
 2021/11/16 on Mistswap, the BCH-BWB MLP will also be burnt<br>
