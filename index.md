@@ -1,6 +1,6 @@
 ## Bismuth Win Bi Official Site 鉍勝幣官方網站
 
-We have issued Bismuth Win Bi (BWB) on **#Cashtokens**.
+We have issued Bismuth Win Bi (BWB) on **#Cashtokens**.(0.01BCH for 10000 BWB ,at least equivalent to 1 USD backed by our team)
 
 All new information now intergrated into our [official site](https://bismuthshed.com).
 
@@ -76,6 +76,20 @@ Schedule :<br>
 <br>
 🟢Tokenomics:
 🟢代幣經濟：
+
+【Cashtokens】
+【Cashtokens】
+
+Total supply: 21 million
+總供應：兩千一百萬顆
+
+✴️4.8% Liquidity✴️4.8% 流動性
+
+✴️0.2% Authhend✴️0.2% Authhead
+
+✴️95% Not allocated now ✴️95% 現仍未分配
+
+✴️Low Cap: approx. $200 now✴️低市值：現在約200鎂
 
 【SmartBCH】
 【智能BCH鏈】
