@@ -1,6 +1,6 @@
 ## Bismuth Win Bi Official Site 鉍勝幣官方網站
 
-We have issued Bismuth Win Bi (BWB) on **#Cashtokens**.(0.01BCH for 10000 BWB ,at least equivalent to 1 USD backed by our team)
+We have issued Bismuth Win Bi (BWB) on **Cashtokens**.(0.01BCH for 10000 BWB, at least equivalent to 1 USD backed by our team)
 
 All new information now intergrated into our [official site](https://bismuthshed.com).
 
