@@ -83,13 +83,16 @@ Schedule :<br>
 Total supply: 21 million
 總供應：兩千一百萬顆
 
-✴️4.8% Liquidity✴️4.8% 流動性
+✴️13.2% Liquidity✴️13.2% 流動性
 
-✴️0.2% Authhend✴️0.2% Authhead
+✴️0.8% Authhend✴️0.8% Authhead
 
-✴️95% Not allocated now ✴️95% 現仍未分配
+✴️86% Not allocated now ✴️86% 現仍未分配
 
-✴️Low Cap: approx. $200 now✴️低市值：現在約200鎂
+✴️Low Cap: $2100 now✴️低市值：現在2100鎂
+
+Every 10000 BWB sell for 0.01BCH, we promise 1 USD for 10000 BWB if BCH lower than $100
+每10000顆可賣0.01BCH，我們保證價格每10000顆一美元，若BCH市值低於100美元
 
 【SmartBCH】
 【智能BCH鏈】
