@@ -91,8 +91,8 @@ Total supply: 21 million
 
 ✴️Low Cap: $2100 now✴️低市值：現在2100鎂
 
-Every 10000 BWB sell for 0.01BCH, we promise 1 USD for 10000 BWB if BCH lower than $100
-每10000顆可賣0.01BCH，我們保證價格每10000顆一美元，若BCH市值低於100美元
+Every 10000 BWB sell for 0.01BCH, we promise 1 USD for 10000 BWB if BCH lower than $100<br>
+每10000顆可賣0.01BCH，我們保證價格每10000顆一美元，若BCH市值低於100美元<br>
 
 【SmartBCH】
 【智能BCH鏈】
